@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3b522b5a288a401db26956eb6f9b56f4" Name="Diagram1" ZoomLevel="73" >
+        <EntityTypeShape EntityType="ModeloGastronomia.Persona" Width="1.5" PointX="28.375" PointY="0.75" />
+        <EntityTypeShape EntityType="ModeloGastronomia.PersonaFisica" Width="1.5" PointX="24.625" PointY="3.5" />
+        <InheritanceConnector EntityType="ModeloGastronomia.PersonaFisica" ManuallyRouted="false" >
+        </InheritanceConnector>
+        <EntityTypeShape EntityType="ModeloGastronomia.Empleado" Width="1.5" PointX="22.125" PointY="6.25" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Empleado" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Cliente" Width="1.5" PointX="24.875" PointY="6.625" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Cliente" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Usuario" Width="1.5" PointX="28.375" PointY="3.5" FillColor="255, 128, 0" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Perfil" Width="1.5" PointX="30.625" PointY="3.75" FillColor="255, 128, 0" />
+        <AssociationConnector Association="ModeloGastronomia.UsuarioPerfil" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Permiso" Width="1.5" PointX="32.875" PointY="3.625" FillColor="255, 128, 0" />
+        <AssociationConnector Association="ModeloGastronomia.PerfilPermiso" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Comprobante" Width="1.5" PointX="15.75" PointY="24.75" FillColor="255, 255, 192" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Reserva" Width="2.25" PointX="18.75" PointY="8.875" FillColor="255, 192, 255" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Reserva" ManuallyRouted="false" >
+        </InheritanceConnector>
+        <AssociationConnector Association="ModeloGastronomia.ClienteReserva" />
+        <AssociationConnector Association="ModeloGastronomia.EmpleadoReserva" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Salon" Width="2.25" PointX="15.375" PointY="27" FillColor="192, 255, 192" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Salon" ManuallyRouted="false" >
+        </InheritanceConnector>
+        <EntityTypeShape EntityType="ModeloGastronomia.Mesa" Width="1.5" PointX="8" PointY="24.25" FillColor="192, 255, 192" />
+        <AssociationConnector Association="ModeloGastronomia.MesaSalon" />
+        <AssociationConnector Association="ModeloGastronomia.MozoSalon" ManuallyRouted="false" >
+        </AssociationConnector>
+        <EntityTypeShape EntityType="ModeloGastronomia.DetalleComprobante" Width="2.375" PointX="7.625" PointY="16.25" FillColor="255, 255, 192" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Producto" Width="1.5" PointX="7.625" PointY="12" />
+        <AssociationConnector Association="ModeloGastronomia.ProductoDetalleComprobante" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Marca" Width="1.5" PointX="5.375" PointY="13.25" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Rubro" Width="1.5" PointX="3.125" PointY="7.75" />
+        <EntityTypeShape EntityType="ModeloGastronomia.SubRubro" Width="1.5" PointX="5.375" PointY="7.25" />
+        <AssociationConnector Association="ModeloGastronomia.RubroSubRubro" />
+        <AssociationConnector Association="ModeloGastronomia.SubRubroProducto" />
+        <AssociationConnector Association="ModeloGastronomia.MarcaProducto" />
+        <EntityTypeShape EntityType="ModeloGastronomia.DetalleSalon" Width="1.5" PointX="11.875" PointY="30.5" FillColor="192, 255, 192" />
+        <InheritanceConnector EntityType="ModeloGastronomia.DetalleSalon" />
+        <AssociationConnector Association="ModeloGastronomia.SalonDetalleSalon" />
+        <EntityTypeShape EntityType="ModeloGastronomia.DetalleDelivery" Width="1.5" PointX="16.125" PointY="19.5" />
+        <InheritanceConnector EntityType="ModeloGastronomia.DetalleDelivery" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Delivery" Width="1.5" PointX="22.625" PointY="10.5" FillColor="255, 224, 192" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Delivery" />
+        <AssociationConnector Association="ModeloGastronomia.ClienteDelivery" />
+        <AssociationConnector Association="ModeloGastronomia.DeliveryDetalleDelivery" />
+        <AssociationConnector Association="ModeloGastronomia.CadeteDelivery" />
+        <EntityTypeShape EntityType="ModeloGastronomia.ListaPrecio" Width="1.5" PointX="7.625" PointY="8.75" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Alicuota" Width="2" PointX="9.875" PointY="8.75" />
+        <AssociationConnector Association="ModeloGastronomia.ListaPrecioAlicuota" />
+        <EntityTypeShape EntityType="ModeloGastronomia.ListaPrecioProducto" Width="1.5" PointX="9.875" PointY="12.375" IsExpanded="true" />
+        <AssociationConnector Association="ModeloGastronomia.ListaPrecioListaPrecioProducto" />
+        <AssociationConnector Association="ModeloGastronomia.ProductoListaPrecioProducto" />
+        <EntityTypeShape EntityType="ModeloGastronomia.PersonaJuridica" Width="1.75" PointX="15" PointY="12.625" />
+        <InheritanceConnector EntityType="ModeloGastronomia.PersonaJuridica" />
+        <EntityTypeShape EntityType="ModeloGastronomia.CondicionIva" Width="1.5" PointX="1.625" PointY="10.5" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Proveedor" Width="1.5" PointX="15.375" PointY="16.25" />
+        <InheritanceConnector EntityType="ModeloGastronomia.Proveedor" />
+        <AssociationConnector Association="ModeloGastronomia.ProveedorProducto" />
+        <AssociationConnector Association="ModeloGastronomia.EmpleadoUsuario" />
+        <AssociationConnector Association="ModeloGastronomia.DetalleComprobantes_DetalleDelivery" />
+        <AssociationConnector Association="ModeloGastronomia.DetalleComprobantes_DetalleSalon" />
+        <AssociationConnector Association="ModeloGastronomia.RubroProveedor" />
+        <AssociationConnector Association="ModeloGastronomia.CondicionIvaPersonaJuridica" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Factura" Width="1.5" PointX="28" PointY="11.25" />
+        <AssociationConnector Association="ModeloGastronomia.ClienteSalon" />
+        <AssociationConnector Association="ModeloGastronomia.MesaReserva" />
+        <EntityTypeShape EntityType="ModeloGastronomia.CuentaCorriente" Width="1.5" PointX="31.75" PointY="8" />
+        <AssociationConnector Association="ModeloGastronomia.ClienteCuentaCorriente" />
+        <EntityTypeShape EntityType="ModeloGastronomia.Movimiento" Width="1.5" PointX="34.125" PointY="11" />
+        <AssociationConnector Association="ModeloGastronomia.EmpleadoFactura" />
+        <AssociationConnector Association="ModeloGastronomia.ClienteFactura" />
+        <AssociationConnector Association="ModeloGastronomia.CuentaCorrienteFactura" />
+        <AssociationConnector Association="ModeloGastronomia.ComprobanteFactura" />
+        <AssociationConnector Association="ModeloGastronomia.FacturaMovimiento" />
+        <AssociationConnector Association="ModeloGastronomia.ClienteMovimiento" />
+        <EntityTypeShape EntityType="ModeloGastronomia.PedidoProducto" Width="1.5" PointX="18.375" PointY="14" />
+        <AssociationConnector Association="ModeloGastronomia.ProductoPedidoProducto" />
+        <AssociationConnector Association="ModeloGastronomia.ProveedorPedidoProducto" />
+        <AssociationConnector Association="ModeloGastronomia.ProveedorMovimiento" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

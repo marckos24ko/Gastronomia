@@ -1,0 +1,317 @@
+D:\X-Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+D:\X-Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+D:\X-Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+D:\X-Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+D:\X-Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+D:\X-Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+D:\X-Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+D:\X-Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+D:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+D:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+D:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+D:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+D:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+D:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+D:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+D:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\Aplicacion.Constantes.dll
+D:\Respaldo en DropBox\Commerce\Presentacion.Base\bin\Debug\Aplicacion.Constantes.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csprojAssemblyReference.cache
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaConDetalle.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaGrande.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsultaSoloLectura.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUpGrande.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\EntityFramework.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\EntityFramework.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.csprojAssemblyReference.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\Presentacion.Base.dll.config
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\Presentacion.Base.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioABM.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLookUp.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioBase.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.Recursos.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Base\obj\Debug\Presentacion.Base.pdb

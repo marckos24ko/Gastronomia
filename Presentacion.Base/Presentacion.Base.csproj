@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18A787F0-C8BA-48C1-95E9-EEBB53F2A9DA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion.Base</RootNamespace>
+    <AssemblyName>Presentacion.Base</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormularioABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioABM.designer.cs">
+      <DependentUpon>FormularioABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioConsulta.designer.cs">
+      <DependentUpon>FormularioConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioLookUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioLookUp.designer.cs">
+      <DependentUpon>FormularioLookUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioBase.Designer.cs">
+      <DependentUpon>FormularioBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Recursos.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Varios\Constante.cs" />
+    <Compile Include="Varios\Identidad.cs" />
+    <Compile Include="Varios\Imagen.cs" />
+    <Compile Include="Varios\Mensaje.cs" />
+    <Compile Include="Varios\Validacion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormularioABM.resx">
+      <DependentUpon>FormularioABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioConsulta.resx">
+      <DependentUpon>FormularioConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioLookUp.resx">
+      <DependentUpon>FormularioLookUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioBase.resx">
+      <DependentUpon>FormularioBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Recursos.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\Actualizar.png" />
+    <Content Include="Imagenes\Actualizar5.png" />
+    <Content Include="Imagenes\Agenda.png" />
+    <Content Include="Imagenes\Agregar.png" />
+    <Content Include="Imagenes\Borrar.png" />
+    <Content Include="Imagenes\Buscar.png" />
+    <Content Include="Imagenes\Camara.png" />
+    <Content Include="Imagenes\Candado.png" />
+    <Content Include="Imagenes\CarritoCompra.png" />
+    <Content Include="Imagenes\Casa2.png" />
+    <Content Include="Imagenes\CajaRegistradora.png" />
+    <Content Include="Imagenes\Configuracion.png" />
+    <Content Include="Imagenes\Cta Corriente.png" />
+    <Content Include="Imagenes\Editar.png" />
+    <Content Include="Imagenes\FondoFormularioNegro2.jpg" />
+    <Content Include="Imagenes\Formularios.png" />
+    <Content Include="Imagenes\Grabar.png" />
+    <Content Include="Imagenes\Guardar.png" />
+    <Content Include="Imagenes\ImagenFondo.png" />
+    <Content Include="Imagenes\Impresora.png" />
+    <Content Include="Imagenes\Login.png" />
+    <Content Include="Imagenes\Moneda.png" />
+    <Content Include="Imagenes\Mundo.png" />
+    <Content Include="Imagenes\Nuevo.png" />
+    <Content Include="Imagenes\Ojo.png" />
+    <Content Include="Imagenes\Password.png" />
+    <Content Include="Imagenes\Producto.png" />
+    <Content Include="Imagenes\Quitar.png" />
+    <Content Include="Imagenes\Rehacer.png" />
+    <Content Include="Imagenes\Salir.png" />
+    <Content Include="Imagenes\search.png" />
+    <Content Include="Imagenes\Semaforo.png" />
+    <Content Include="Imagenes\Usuario.png" />
+    <None Include="Resources\LogoGastronomia.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

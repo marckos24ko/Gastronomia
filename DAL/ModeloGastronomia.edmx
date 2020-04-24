@@ -1,0 +1,2382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ModeloGastronomia.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModeloGastronomiaStoreContainer">
+    <EntitySet Name="Personas" EntityType="ModeloGastronomia.Store.Personas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Usuarios" EntityType="ModeloGastronomia.Store.Usuarios" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Perfiles" EntityType="ModeloGastronomia.Store.Perfiles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Permisos" EntityType="ModeloGastronomia.Store.Permisos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Comprobantes" EntityType="ModeloGastronomia.Store.Comprobantes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Mesas" EntityType="ModeloGastronomia.Store.Mesas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DetalleComprobantes" EntityType="ModeloGastronomia.Store.DetalleComprobantes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Productos" EntityType="ModeloGastronomia.Store.Productos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Marcas" EntityType="ModeloGastronomia.Store.Marcas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Rubros" EntityType="ModeloGastronomia.Store.Rubros" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SubRubros" EntityType="ModeloGastronomia.Store.SubRubros" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ListaPrecios" EntityType="ModeloGastronomia.Store.ListaPrecios" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Alicuotas" EntityType="ModeloGastronomia.Store.Alicuotas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ListaPrecioProductos" EntityType="ModeloGastronomia.Store.ListaPrecioProductos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CondicionIvas" EntityType="ModeloGastronomia.Store.CondicionIvas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Facturas" EntityType="ModeloGastronomia.Store.Facturas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CuentasCorriente" EntityType="ModeloGastronomia.Store.CuentasCorriente" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Movimientos" EntityType="ModeloGastronomia.Store.Movimientos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PedidosProducto" EntityType="ModeloGastronomia.Store.PedidosProducto" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personas_PersonaFisica" EntityType="ModeloGastronomia.Store.Personas_PersonaFisica" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personas_Cliente" EntityType="ModeloGastronomia.Store.Personas_Cliente" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Comprobantes_Reserva" EntityType="ModeloGastronomia.Store.Comprobantes_Reserva" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personas_Empleado" EntityType="ModeloGastronomia.Store.Personas_Empleado" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Comprobantes_Salon" EntityType="ModeloGastronomia.Store.Comprobantes_Salon" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DetalleComprobantes_DetalleSalon" EntityType="ModeloGastronomia.Store.DetalleComprobantes_DetalleSalon" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Comprobantes_Delivery" EntityType="ModeloGastronomia.Store.Comprobantes_Delivery" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DetalleComprobantes_DetalleDelivery" EntityType="ModeloGastronomia.Store.DetalleComprobantes_DetalleDelivery" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personas_PersonaJuridica" EntityType="ModeloGastronomia.Store.Personas_PersonaJuridica" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Personas_Proveedor" EntityType="ModeloGastronomia.Store.Personas_Proveedor" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UsuarioPerfil" EntityType="ModeloGastronomia.Store.UsuarioPerfil" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PerfilPermiso" EntityType="ModeloGastronomia.Store.PerfilPermiso" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProveedorProducto" EntityType="ModeloGastronomia.Store.ProveedorProducto" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_UsuarioPerfil_Usuario" Association="ModeloGastronomia.Store.FK_UsuarioPerfil_Usuario">
+      <End Role="Usuario" EntitySet="Usuarios" />
+      <End Role="UsuarioPerfil" EntitySet="UsuarioPerfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsuarioPerfil_Perfil" Association="ModeloGastronomia.Store.FK_UsuarioPerfil_Perfil">
+      <End Role="Perfil" EntitySet="Perfiles" />
+      <End Role="UsuarioPerfil" EntitySet="UsuarioPerfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PerfilPermiso_Perfil" Association="ModeloGastronomia.Store.FK_PerfilPermiso_Perfil">
+      <End Role="Perfil" EntitySet="Perfiles" />
+      <End Role="PerfilPermiso" EntitySet="PerfilPermiso" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PerfilPermiso_Permiso" Association="ModeloGastronomia.Store.FK_PerfilPermiso_Permiso">
+      <End Role="Permiso" EntitySet="Permisos" />
+      <End Role="PerfilPermiso" EntitySet="PerfilPermiso" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteReserva" Association="ModeloGastronomia.Store.ClienteReserva">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="Reserva" EntitySet="Comprobantes_Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="EmpleadoReserva" Association="ModeloGastronomia.Store.EmpleadoReserva">
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+      <End Role="Reserva" EntitySet="Comprobantes_Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="MesaSalon" Association="ModeloGastronomia.Store.MesaSalon">
+      <End Role="Mesa" EntitySet="Mesas" />
+      <End Role="Salon" EntitySet="Comprobantes_Salon" />
+    </AssociationSet>
+    <AssociationSet Name="MozoSalon" Association="ModeloGastronomia.Store.MozoSalon">
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+      <End Role="Salon" EntitySet="Comprobantes_Salon" />
+    </AssociationSet>
+    <AssociationSet Name="ProductoDetalleComprobante" Association="ModeloGastronomia.Store.ProductoDetalleComprobante">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+    </AssociationSet>
+    <AssociationSet Name="RubroSubRubro" Association="ModeloGastronomia.Store.RubroSubRubro">
+      <End Role="Rubro" EntitySet="Rubros" />
+      <End Role="SubRubro" EntitySet="SubRubros" />
+    </AssociationSet>
+    <AssociationSet Name="SubRubroProducto" Association="ModeloGastronomia.Store.SubRubroProducto">
+      <End Role="SubRubro" EntitySet="SubRubros" />
+      <End Role="Producto" EntitySet="Productos" />
+    </AssociationSet>
+    <AssociationSet Name="MarcaProducto" Association="ModeloGastronomia.Store.MarcaProducto">
+      <End Role="Marca" EntitySet="Marcas" />
+      <End Role="Producto" EntitySet="Productos" />
+    </AssociationSet>
+    <AssociationSet Name="SalonDetalleSalon" Association="ModeloGastronomia.Store.SalonDetalleSalon">
+      <End Role="Salon" EntitySet="Comprobantes_Salon" />
+      <End Role="DetalleSalon" EntitySet="DetalleComprobantes_DetalleSalon" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteDelivery" Association="ModeloGastronomia.Store.ClienteDelivery">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="Delivery" EntitySet="Comprobantes_Delivery" />
+    </AssociationSet>
+    <AssociationSet Name="DeliveryDetalleDelivery" Association="ModeloGastronomia.Store.DeliveryDetalleDelivery">
+      <End Role="Delivery" EntitySet="Comprobantes_Delivery" />
+      <End Role="DetalleDelivery" EntitySet="DetalleComprobantes_DetalleDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="EmpleadoDelivery" Association="ModeloGastronomia.Store.CadeteDelivery">
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+      <End Role="Delivery" EntitySet="Comprobantes_Delivery" />
+    </AssociationSet>
+    <AssociationSet Name="ListaPrecioAlicuota" Association="ModeloGastronomia.Store.ListaPrecioAlicuota">
+      <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+      <End Role="Alicuota" EntitySet="Alicuotas" />
+    </AssociationSet>
+    <AssociationSet Name="ListaPrecioListaPrecioProducto" Association="ModeloGastronomia.Store.ListaPrecioListaPrecioProducto">
+      <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+      <End Role="ListaPrecioProducto" EntitySet="ListaPrecioProductos" />
+    </AssociationSet>
+    <AssociationSet Name="ProductoListaPrecioProducto" Association="ModeloGastronomia.Store.ProductoListaPrecioProducto">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="ListaPrecioProducto" EntitySet="ListaPrecioProductos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProveedorProducto_Proveedor" Association="ModeloGastronomia.Store.FK_ProveedorProducto_Proveedor">
+      <End Role="Proveedor" EntitySet="Personas_Proveedor" />
+      <End Role="ProveedorProducto" EntitySet="ProveedorProducto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProveedorProducto_Producto" Association="ModeloGastronomia.Store.FK_ProveedorProducto_Producto">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="ProveedorProducto" EntitySet="ProveedorProducto" />
+    </AssociationSet>
+    <AssociationSet Name="EmpleadoUsuario" Association="ModeloGastronomia.Store.EmpleadoUsuario">
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+      <End Role="Usuario" EntitySet="Usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="RubroProveedor" Association="ModeloGastronomia.Store.RubroProveedor">
+      <End Role="Rubro" EntitySet="Rubros" />
+      <End Role="Proveedor" EntitySet="Personas_Proveedor" />
+    </AssociationSet>
+    <AssociationSet Name="CondicionIvaPersonaJuridica" Association="ModeloGastronomia.Store.CondicionIvaPersonaJuridica">
+      <End Role="CondicionIva" EntitySet="CondicionIvas" />
+      <End Role="PersonaJuridica" EntitySet="Personas_PersonaJuridica" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteSalon" Association="ModeloGastronomia.Store.ClienteSalon">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="Salon" EntitySet="Comprobantes_Salon" />
+    </AssociationSet>
+    <AssociationSet Name="MesaReserva" Association="ModeloGastronomia.Store.MesaReserva">
+      <End Role="Mesa" EntitySet="Mesas" />
+      <End Role="Reserva" EntitySet="Comprobantes_Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteCuentaCorriente" Association="ModeloGastronomia.Store.ClienteCuentaCorriente">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="CuentaCorriente" EntitySet="CuentasCorriente" />
+    </AssociationSet>
+    <AssociationSet Name="EmpleadoFactura" Association="ModeloGastronomia.Store.EmpleadoFactura">
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+      <End Role="Factura" EntitySet="Facturas" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteFactura" Association="ModeloGastronomia.Store.ClienteFactura">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="Factura" EntitySet="Facturas" />
+    </AssociationSet>
+    <AssociationSet Name="CuentaCorrienteFactura" Association="ModeloGastronomia.Store.CuentaCorrienteFactura">
+      <End Role="CuentaCorriente" EntitySet="CuentasCorriente" />
+      <End Role="Factura" EntitySet="Facturas" />
+    </AssociationSet>
+    <AssociationSet Name="ComprobanteFactura" Association="ModeloGastronomia.Store.ComprobanteFactura">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="Factura" EntitySet="Facturas" />
+    </AssociationSet>
+    <AssociationSet Name="FacturaMovimiento" Association="ModeloGastronomia.Store.FacturaMovimiento">
+      <End Role="Factura" EntitySet="Facturas" />
+      <End Role="Movimiento" EntitySet="Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="ClienteMovimiento" Association="ModeloGastronomia.Store.ClienteMovimiento">
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+      <End Role="Movimiento" EntitySet="Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="ProductoPedidoProducto" Association="ModeloGastronomia.Store.ProductoPedidoProducto">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="PedidoProducto" EntitySet="PedidosProducto" />
+    </AssociationSet>
+    <AssociationSet Name="ProveedorPedidoProducto" Association="ModeloGastronomia.Store.ProveedorPedidoProducto">
+      <End Role="Proveedor" EntitySet="Personas_Proveedor" />
+      <End Role="PedidoProducto" EntitySet="PedidosProducto" />
+    </AssociationSet>
+    <AssociationSet Name="ProveedorMovimiento" Association="ModeloGastronomia.Store.ProveedorMovimiento">
+      <End Role="Proveedor" EntitySet="Personas_Proveedor" />
+      <End Role="Movimiento" EntitySet="Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonaFisica_inherits_Persona" Association="ModeloGastronomia.Store.FK_PersonaFisica_inherits_Persona">
+      <End Role="Persona" EntitySet="Personas" />
+      <End Role="PersonaFisica" EntitySet="Personas_PersonaFisica" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cliente_inherits_PersonaFisica" Association="ModeloGastronomia.Store.FK_Cliente_inherits_PersonaFisica">
+      <End Role="PersonaFisica" EntitySet="Personas_PersonaFisica" />
+      <End Role="Cliente" EntitySet="Personas_Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reserva_inherits_Comprobante" Association="ModeloGastronomia.Store.FK_Reserva_inherits_Comprobante">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="Reserva" EntitySet="Comprobantes_Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Empleado_inherits_PersonaFisica" Association="ModeloGastronomia.Store.FK_Empleado_inherits_PersonaFisica">
+      <End Role="PersonaFisica" EntitySet="Personas_PersonaFisica" />
+      <End Role="Empleado" EntitySet="Personas_Empleado" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Salon_inherits_Comprobante" Association="ModeloGastronomia.Store.FK_Salon_inherits_Comprobante">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="Salon" EntitySet="Comprobantes_Salon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetalleSalon_inherits_DetalleComprobante" Association="ModeloGastronomia.Store.FK_DetalleSalon_inherits_DetalleComprobante">
+      <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+      <End Role="DetalleSalon" EntitySet="DetalleComprobantes_DetalleSalon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Delivery_inherits_Comprobante" Association="ModeloGastronomia.Store.FK_Delivery_inherits_Comprobante">
+      <End Role="Comprobante" EntitySet="Comprobantes" />
+      <End Role="Delivery" EntitySet="Comprobantes_Delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetalleDelivery_inherits_DetalleComprobante" Association="ModeloGastronomia.Store.FK_DetalleDelivery_inherits_DetalleComprobante">
+      <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+      <End Role="DetalleDelivery" EntitySet="DetalleComprobantes_DetalleDelivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonaJuridica_inherits_Persona" Association="ModeloGastronomia.Store.FK_PersonaJuridica_inherits_Persona">
+      <End Role="Persona" EntitySet="Personas" />
+      <End Role="PersonaJuridica" EntitySet="Personas_PersonaJuridica" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Proveedor_inherits_PersonaJuridica" Association="ModeloGastronomia.Store.FK_Proveedor_inherits_PersonaJuridica">
+      <End Role="PersonaJuridica" EntitySet="Personas_PersonaJuridica" />
+      <End Role="Proveedor" EntitySet="Personas_Proveedor" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Personas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Teléfono" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="EstaBloqueado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Perfiles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Permisos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Formulario" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Comprobantes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mesas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Numero" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="EstadoMesa" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DetalleComprobantes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="SubTotal" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Codigo" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="CodigoBarra" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="Precio" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="ProductoId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Productos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="CodigoBarra" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="Stock" Type="int" Nullable="false" />
+    <Property Name="SubRubroId" Type="bigint" Nullable="false" />
+    <Property Name="MarcaId" Type="bigint" Nullable="false" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Marcas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="150" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rubros">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SubRubros">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="RubroId" Type="bigint" Nullable="false" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ListaPrecios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Alicuotas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FechaActualizacion" Type="datetime" Nullable="false" />
+    <Property Name="Porcentaje" Type="decimal" Nullable="false" />
+    <Property Name="ListaPrecioId" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ListaPrecioProductos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ListaPrecioId" Type="bigint" Nullable="false" />
+    <Property Name="ProductoId" Type="int" Nullable="false" />
+    <Property Name="PrecioCosto" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="PrecioPublico" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Alicuota" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="FechaActualizacion" Type="datetime" Nullable="false" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CondicionIvas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Facturas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Estado" Type="int" Nullable="false" />
+    <Property Name="Total" Type="decimal" Nullable="false" />
+    <Property Name="Numero" Type="int" Nullable="false" />
+    <Property Name="EmpleadoId" Type="bigint" Nullable="false" />
+    <Property Name="ClienteId" Type="bigint" Nullable="false" />
+    <Property Name="CuentaCorrienteId" Type="bigint" Nullable="true" />
+    <Property Name="TotalAbonado" Type="decimal" Nullable="false" />
+    <Property Name="Comprobante_Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CuentasCorriente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Numero" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="EstaHabilitada" Type="bit" Nullable="false" />
+    <Property Name="Cliente_Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Movimientos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Tipo" Type="int" Nullable="false" />
+    <Property Name="Monto" Type="decimal" Nullable="false" />
+    <Property Name="Numero" Type="int" Nullable="false" />
+    <Property Name="FacturaId" Type="bigint" Nullable="true" />
+    <Property Name="ClienteId" Type="bigint" Nullable="true" />
+    <Property Name="ProveedorId" Type="bigint" Nullable="true" />
+  </EntityType>
+  <EntityType Name="PedidosProducto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Numero" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="PrecioCosto" Type="decimal" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Total" Type="decimal" Nullable="false" />
+    <Property Name="ProductoId" Type="int" Nullable="false" />
+    <Property Name="ProveedorId" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas_PersonaFisica">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Apellido" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="Dni" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="Cuil" Type="nvarchar" Nullable="false" MaxLength="11" />
+    <Property Name="Celular" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas_Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="estaEliminado" Type="bit" Nullable="false" />
+    <Property Name="ActivoParaCompra" Type="bit" Nullable="false" />
+    <Property Name="TieneCtaCte" Type="bit" Nullable="false" />
+    <Property Name="MontoMaximo" Type="decimal" Nullable="true" />
+    <Property Name="DeudaTotal" Type="decimal" Nullable="true" />
+    <Property Name="EstaOcupado" Type="bit" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Comprobantes_Reserva">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ClienteId" Type="bigint" Nullable="false" />
+    <Property Name="FechaReserva" Type="datetime" Nullable="false" />
+    <Property Name="CantidadComensales" Type="int" Nullable="false" />
+    <Property Name="EstadoReserva" Type="int" Nullable="false" />
+    <Property Name="EmpleadoId" Type="bigint" Nullable="false" />
+    <Property Name="Observacion" Type="nvarchar" Nullable="false" MaxLength="500" />
+    <Property Name="EstaEliminado" Type="bit" Nullable="false" />
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="MesaId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas_Empleado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Legajo" Type="int" Nullable="false" />
+    <Property Name="TipoEmpleado" Type="int" Nullable="false" />
+    <Property Name="estaEliminado" Type="bit" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+    <Property Name="Usuario_Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Comprobantes_Salon">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="MesaId" Type="bigint" Nullable="false" />
+    <Property Name="Cubiertos" Type="int" Nullable="false" />
+    <Property Name="MozoId" Type="bigint" Nullable="false" />
+    <Property Name="Subtotal" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Descuento" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Total" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="EstadoSalon" Type="int" Nullable="false" />
+    <Property Name="ClienteId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DetalleComprobantes_DetalleSalon">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="SalonId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Comprobantes_Delivery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ClienteId" Type="bigint" Nullable="false" />
+    <Property Name="Total" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="DireccionEnvio" Type="nvarchar" Nullable="false" MaxLength="400" />
+    <Property Name="Observacion" Type="nvarchar" Nullable="true" MaxLength="400" />
+    <Property Name="EstadoDelivery" Type="int" Nullable="false" />
+    <Property Name="CadeteId" Type="bigint" Nullable="false" />
+    <Property Name="Descuento" Type="decimal" Nullable="false" />
+    <Property Name="SubTotal" Type="decimal" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DetalleComprobantes_DetalleDelivery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="DeliveryId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas_PersonaJuridica">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Cuit" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="RazonSocial" Type="nvarchar" Nullable="false" MaxLength="400" />
+    <Property Name="NombreFantacia" Type="nvarchar" Nullable="false" MaxLength="400" />
+    <Property Name="FechaInicioActividad" Type="datetime" Nullable="false" />
+    <Property Name="IngresosBrutos" Type="decimal" Nullable="false" />
+    <Property Name="CondicionIvaId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas_Proveedor">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ApyNomContacto" Type="nvarchar" Nullable="false" MaxLength="250" />
+    <Property Name="RubroId" Type="bigint" Nullable="false" />
+    <Property Name="Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UsuarioPerfil">
+    <Key>
+      <PropertyRef Name="Usuario_Id" />
+      <PropertyRef Name="Perfil_Id" />
+    </Key>
+    <Property Name="Usuario_Id" Type="bigint" Nullable="false" />
+    <Property Name="Perfil_Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PerfilPermiso">
+    <Key>
+      <PropertyRef Name="Perfil_Id" />
+      <PropertyRef Name="Permiso_Id" />
+    </Key>
+    <Property Name="Perfil_Id" Type="bigint" Nullable="false" />
+    <Property Name="Permiso_Id" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProveedorProducto">
+    <Key>
+      <PropertyRef Name="Proveedores_Id" />
+      <PropertyRef Name="Productos_Id" />
+    </Key>
+    <Property Name="Proveedores_Id" Type="bigint" Nullable="false" />
+    <Property Name="Productos_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="ClienteReserva">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="1" />
+    <End Role="Reserva" Type="ModeloGastronomia.Store.Comprobantes_Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EmpleadoReserva">
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="1" />
+    <End Role="Reserva" Type="ModeloGastronomia.Store.Comprobantes_Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="EmpleadoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MesaSalon">
+    <End Role="Mesa" Type="ModeloGastronomia.Store.Mesas" Multiplicity="1" />
+    <End Role="Salon" Type="ModeloGastronomia.Store.Comprobantes_Salon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mesa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salon">
+        <PropertyRef Name="MesaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MozoSalon">
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="1" />
+    <End Role="Salon" Type="ModeloGastronomia.Store.Comprobantes_Salon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salon">
+        <PropertyRef Name="MozoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductoDetalleComprobante">
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="1" />
+    <End Role="DetalleComprobante" Type="ModeloGastronomia.Store.DetalleComprobantes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleComprobante">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RubroSubRubro">
+    <End Role="Rubro" Type="ModeloGastronomia.Store.Rubros" Multiplicity="1" />
+    <End Role="SubRubro" Type="ModeloGastronomia.Store.SubRubros" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rubro">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SubRubro">
+        <PropertyRef Name="RubroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SubRubroProducto">
+    <End Role="SubRubro" Type="ModeloGastronomia.Store.SubRubros" Multiplicity="1" />
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubRubro">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="SubRubroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MarcaProducto">
+    <End Role="Marca" Type="ModeloGastronomia.Store.Marcas" Multiplicity="1" />
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marca">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="MarcaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SalonDetalleSalon">
+    <End Role="Salon" Type="ModeloGastronomia.Store.Comprobantes_Salon" Multiplicity="1" />
+    <End Role="DetalleSalon" Type="ModeloGastronomia.Store.DetalleComprobantes_DetalleSalon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Salon">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleSalon">
+        <PropertyRef Name="SalonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteDelivery">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="1" />
+    <End Role="Delivery" Type="ModeloGastronomia.Store.Comprobantes_Delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Delivery">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DeliveryDetalleDelivery">
+    <End Role="Delivery" Type="ModeloGastronomia.Store.Comprobantes_Delivery" Multiplicity="1" />
+    <End Role="DetalleDelivery" Type="ModeloGastronomia.Store.DetalleComprobantes_DetalleDelivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Delivery">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleDelivery">
+        <PropertyRef Name="DeliveryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CadeteDelivery">
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="1" />
+    <End Role="Delivery" Type="ModeloGastronomia.Store.Comprobantes_Delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Delivery">
+        <PropertyRef Name="CadeteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ListaPrecioAlicuota">
+    <End Role="ListaPrecio" Type="ModeloGastronomia.Store.ListaPrecios" Multiplicity="1" />
+    <End Role="Alicuota" Type="ModeloGastronomia.Store.Alicuotas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ListaPrecio">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Alicuota">
+        <PropertyRef Name="ListaPrecioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ListaPrecioListaPrecioProducto">
+    <End Role="ListaPrecio" Type="ModeloGastronomia.Store.ListaPrecios" Multiplicity="1" />
+    <End Role="ListaPrecioProducto" Type="ModeloGastronomia.Store.ListaPrecioProductos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ListaPrecio">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ListaPrecioProducto">
+        <PropertyRef Name="ListaPrecioId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductoListaPrecioProducto">
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="1" />
+    <End Role="ListaPrecioProducto" Type="ModeloGastronomia.Store.ListaPrecioProductos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ListaPrecioProducto">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EmpleadoUsuario">
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="*" />
+    <End Role="Usuario" Type="ModeloGastronomia.Store.Usuarios" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Empleado">
+        <PropertyRef Name="Usuario_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RubroProveedor">
+    <End Role="Rubro" Type="ModeloGastronomia.Store.Rubros" Multiplicity="1" />
+    <End Role="Proveedor" Type="ModeloGastronomia.Store.Personas_Proveedor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rubro">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Proveedor">
+        <PropertyRef Name="RubroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CondicionIvaPersonaJuridica">
+    <End Role="CondicionIva" Type="ModeloGastronomia.Store.CondicionIvas" Multiplicity="1" />
+    <End Role="PersonaJuridica" Type="ModeloGastronomia.Store.Personas_PersonaJuridica" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CondicionIva">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PersonaJuridica">
+        <PropertyRef Name="CondicionIvaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteSalon">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="1" />
+    <End Role="Salon" Type="ModeloGastronomia.Store.Comprobantes_Salon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salon">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MesaReserva">
+    <End Role="Mesa" Type="ModeloGastronomia.Store.Mesas" Multiplicity="1" />
+    <End Role="Reserva" Type="ModeloGastronomia.Store.Comprobantes_Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mesa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="MesaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteCuentaCorriente">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="1" />
+    <End Role="CuentaCorriente" Type="ModeloGastronomia.Store.CuentasCorriente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CuentaCorriente">
+        <PropertyRef Name="Cliente_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="EmpleadoFactura">
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="1" />
+    <End Role="Factura" Type="ModeloGastronomia.Store.Facturas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="EmpleadoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteFactura">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="1" />
+    <End Role="Factura" Type="ModeloGastronomia.Store.Facturas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CuentaCorrienteFactura">
+    <End Role="CuentaCorriente" Type="ModeloGastronomia.Store.CuentasCorriente" Multiplicity="0..1" />
+    <End Role="Factura" Type="ModeloGastronomia.Store.Facturas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CuentaCorriente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="CuentaCorrienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ComprobanteFactura">
+    <End Role="Comprobante" Type="ModeloGastronomia.Store.Comprobantes" Multiplicity="1" />
+    <End Role="Factura" Type="ModeloGastronomia.Store.Facturas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="Comprobante_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FacturaMovimiento">
+    <End Role="Factura" Type="ModeloGastronomia.Store.Facturas" Multiplicity="0..1" />
+    <End Role="Movimiento" Type="ModeloGastronomia.Store.Movimientos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Factura">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="FacturaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClienteMovimiento">
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="0..1" />
+    <End Role="Movimiento" Type="ModeloGastronomia.Store.Movimientos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="ClienteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProductoPedidoProducto">
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="1" />
+    <End Role="PedidoProducto" Type="ModeloGastronomia.Store.PedidosProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PedidoProducto">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProveedorPedidoProducto">
+    <End Role="Proveedor" Type="ModeloGastronomia.Store.Personas_Proveedor" Multiplicity="1" />
+    <End Role="PedidoProducto" Type="ModeloGastronomia.Store.PedidosProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proveedor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PedidoProducto">
+        <PropertyRef Name="ProveedorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ProveedorMovimiento">
+    <End Role="Proveedor" Type="ModeloGastronomia.Store.Personas_Proveedor" Multiplicity="0..1" />
+    <End Role="Movimiento" Type="ModeloGastronomia.Store.Movimientos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proveedor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="ProveedorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsuarioPerfil_Usuario">
+    <End Role="Usuario" Type="ModeloGastronomia.Store.Usuarios" Multiplicity="1" />
+    <End Role="UsuarioPerfil" Type="ModeloGastronomia.Store.UsuarioPerfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UsuarioPerfil">
+        <PropertyRef Name="Usuario_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsuarioPerfil_Perfil">
+    <End Role="UsuarioPerfil" Type="ModeloGastronomia.Store.UsuarioPerfil" Multiplicity="*" />
+    <End Role="Perfil" Type="ModeloGastronomia.Store.Perfiles" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Perfil">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UsuarioPerfil">
+        <PropertyRef Name="Perfil_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PerfilPermiso_Perfil">
+    <End Role="Perfil" Type="ModeloGastronomia.Store.Perfiles" Multiplicity="1" />
+    <End Role="PerfilPermiso" Type="ModeloGastronomia.Store.PerfilPermiso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Perfil">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PerfilPermiso">
+        <PropertyRef Name="Perfil_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PerfilPermiso_Permiso">
+    <End Role="PerfilPermiso" Type="ModeloGastronomia.Store.PerfilPermiso" Multiplicity="*" />
+    <End Role="Permiso" Type="ModeloGastronomia.Store.Permisos" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Permiso">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PerfilPermiso">
+        <PropertyRef Name="Permiso_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProveedorProducto_Proveedor">
+    <End Role="Proveedor" Type="ModeloGastronomia.Store.Personas_Proveedor" Multiplicity="1" />
+    <End Role="ProveedorProducto" Type="ModeloGastronomia.Store.ProveedorProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Proveedor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProveedorProducto">
+        <PropertyRef Name="Proveedores_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProveedorProducto_Producto">
+    <End Role="ProveedorProducto" Type="ModeloGastronomia.Store.ProveedorProducto" Multiplicity="*" />
+    <End Role="Producto" Type="ModeloGastronomia.Store.Productos" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProveedorProducto">
+        <PropertyRef Name="Productos_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonaFisica_inherits_Persona">
+    <End Role="Persona" Type="ModeloGastronomia.Store.Personas" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PersonaFisica" Type="ModeloGastronomia.Store.Personas_PersonaFisica" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PersonaFisica">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cliente_inherits_PersonaFisica">
+    <End Role="PersonaFisica" Type="ModeloGastronomia.Store.Personas_PersonaFisica" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cliente" Type="ModeloGastronomia.Store.Personas_Cliente" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="PersonaFisica">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reserva_inherits_Comprobante">
+    <End Role="Comprobante" Type="ModeloGastronomia.Store.Comprobantes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Reserva" Type="ModeloGastronomia.Store.Comprobantes_Reserva" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Empleado_inherits_PersonaFisica">
+    <End Role="PersonaFisica" Type="ModeloGastronomia.Store.Personas_PersonaFisica" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Empleado" Type="ModeloGastronomia.Store.Personas_Empleado" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="PersonaFisica">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Salon_inherits_Comprobante">
+    <End Role="Comprobante" Type="ModeloGastronomia.Store.Comprobantes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Salon" Type="ModeloGastronomia.Store.Comprobantes_Salon" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Salon">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetalleSalon_inherits_DetalleComprobante">
+    <End Role="DetalleComprobante" Type="ModeloGastronomia.Store.DetalleComprobantes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="DetalleSalon" Type="ModeloGastronomia.Store.DetalleComprobantes_DetalleSalon" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="DetalleComprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleSalon">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Delivery_inherits_Comprobante">
+    <End Role="Comprobante" Type="ModeloGastronomia.Store.Comprobantes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Delivery" Type="ModeloGastronomia.Store.Comprobantes_Delivery" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Comprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Delivery">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetalleDelivery_inherits_DetalleComprobante">
+    <End Role="DetalleComprobante" Type="ModeloGastronomia.Store.DetalleComprobantes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="DetalleDelivery" Type="ModeloGastronomia.Store.DetalleComprobantes_DetalleDelivery" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="DetalleComprobante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DetalleDelivery">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonaJuridica_inherits_Persona">
+    <End Role="Persona" Type="ModeloGastronomia.Store.Personas" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PersonaJuridica" Type="ModeloGastronomia.Store.Personas_PersonaJuridica" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PersonaJuridica">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Proveedor_inherits_PersonaJuridica">
+    <End Role="PersonaJuridica" Type="ModeloGastronomia.Store.Personas_PersonaJuridica" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Proveedor" Type="ModeloGastronomia.Store.Personas_Proveedor" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="PersonaJuridica">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Proveedor">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModeloGastronomia" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="ModeloGastronomiaContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Personas" EntityType="ModeloGastronomia.Persona" />
+          <EntitySet Name="Usuarios" EntityType="ModeloGastronomia.Usuario" />
+          <EntitySet Name="Perfiles" EntityType="ModeloGastronomia.Perfil" />
+          <AssociationSet Name="UsuarioPerfil" Association="ModeloGastronomia.UsuarioPerfil">
+            <End Role="Usuario" EntitySet="Usuarios" />
+            <End Role="Perfil" EntitySet="Perfiles" />
+          </AssociationSet>
+          <EntitySet Name="Permisos" EntityType="ModeloGastronomia.Permiso" />
+          <AssociationSet Name="PerfilPermiso" Association="ModeloGastronomia.PerfilPermiso">
+            <End Role="Perfil" EntitySet="Perfiles" />
+            <End Role="Permiso" EntitySet="Permisos" />
+          </AssociationSet>
+          <EntitySet Name="Comprobantes" EntityType="ModeloGastronomia.Comprobante" />
+          <AssociationSet Name="ClienteReserva" Association="ModeloGastronomia.ClienteReserva">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="Reserva" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="EmpleadoReserva" Association="ModeloGastronomia.EmpleadoReserva">
+            <End Role="Empleado" EntitySet="Personas" />
+            <End Role="Reserva" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <EntitySet Name="Mesas" EntityType="ModeloGastronomia.Mesa" />
+          <AssociationSet Name="MesaSalon" Association="ModeloGastronomia.MesaSalon">
+            <End Role="Mesa" EntitySet="Mesas" />
+            <End Role="Salon" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="MozoSalon" Association="ModeloGastronomia.MozoSalon">
+            <End Role="Empleado" EntitySet="Personas" />
+            <End Role="Salon" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <EntitySet Name="DetalleComprobantes" EntityType="ModeloGastronomia.DetalleComprobante" />
+          <EntitySet Name="Productos" EntityType="ModeloGastronomia.Producto" />
+          <AssociationSet Name="ProductoDetalleComprobante" Association="ModeloGastronomia.ProductoDetalleComprobante">
+            <End Role="Producto" EntitySet="Productos" />
+            <End Role="DetalleComprobante" EntitySet="DetalleComprobantes" />
+          </AssociationSet>
+          <EntitySet Name="Marcas" EntityType="ModeloGastronomia.Marca" />
+          <EntitySet Name="Rubros" EntityType="ModeloGastronomia.Rubro" />
+          <EntitySet Name="SubRubros" EntityType="ModeloGastronomia.SubRubro" />
+          <AssociationSet Name="RubroSubRubro" Association="ModeloGastronomia.RubroSubRubro">
+            <End Role="Rubro" EntitySet="Rubros" />
+            <End Role="SubRubro" EntitySet="SubRubros" />
+          </AssociationSet>
+          <AssociationSet Name="SubRubroProducto" Association="ModeloGastronomia.SubRubroProducto">
+            <End Role="SubRubro" EntitySet="SubRubros" />
+            <End Role="Producto" EntitySet="Productos" />
+          </AssociationSet>
+          <AssociationSet Name="MarcaProducto" Association="ModeloGastronomia.MarcaProducto">
+            <End Role="Marca" EntitySet="Marcas" />
+            <End Role="Producto" EntitySet="Productos" />
+          </AssociationSet>
+          <AssociationSet Name="SalonDetalleSalon" Association="ModeloGastronomia.SalonDetalleSalon">
+            <End Role="Salon" EntitySet="Comprobantes" />
+            <End Role="DetalleSalon" EntitySet="DetalleComprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="ClienteDelivery" Association="ModeloGastronomia.ClienteDelivery">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="Delivery" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="DeliveryDetalleDelivery" Association="ModeloGastronomia.DeliveryDetalleDelivery">
+            <End Role="Delivery" EntitySet="Comprobantes" />
+            <End Role="DetalleDelivery" EntitySet="DetalleComprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="EmpleadoDelivery" Association="ModeloGastronomia.CadeteDelivery">
+            <End EntitySet="Personas" Role="Empleado" />
+            <End EntitySet="Comprobantes" Role="Delivery" />
+          </AssociationSet>
+          <EntitySet Name="ListaPrecios" EntityType="ModeloGastronomia.ListaPrecio" />
+          <EntitySet Name="Alicuotas" EntityType="ModeloGastronomia.Alicuota" />
+          <AssociationSet Name="ListaPrecioAlicuota" Association="ModeloGastronomia.ListaPrecioAlicuota">
+            <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+            <End Role="Alicuota" EntitySet="Alicuotas" />
+          </AssociationSet>
+          <EntitySet Name="ListaPrecioProductos" EntityType="ModeloGastronomia.ListaPrecioProducto" />
+          <AssociationSet Name="ListaPrecioListaPrecioProducto" Association="ModeloGastronomia.ListaPrecioListaPrecioProducto">
+            <End Role="ListaPrecio" EntitySet="ListaPrecios" />
+            <End Role="ListaPrecioProducto" EntitySet="ListaPrecioProductos" />
+          </AssociationSet>
+          <AssociationSet Name="ProductoListaPrecioProducto" Association="ModeloGastronomia.ProductoListaPrecioProducto">
+            <End Role="Producto" EntitySet="Productos" />
+            <End Role="ListaPrecioProducto" EntitySet="ListaPrecioProductos" />
+          </AssociationSet>
+          <EntitySet Name="CondicionIvas" EntityType="ModeloGastronomia.CondicionIva" />
+          <AssociationSet Name="ProveedorProducto" Association="ModeloGastronomia.ProveedorProducto">
+            <End Role="Proveedor" EntitySet="Personas" />
+            <End Role="Producto" EntitySet="Productos" />
+          </AssociationSet>
+          <AssociationSet Name="EmpleadoUsuario" Association="ModeloGastronomia.EmpleadoUsuario">
+            <End Role="Empleado" EntitySet="Personas" />
+            <End Role="Usuario" EntitySet="Usuarios" />
+          </AssociationSet>
+          <AssociationSet Name="RubroProveedor" Association="ModeloGastronomia.RubroProveedor">
+            <End Role="Rubro" EntitySet="Rubros" />
+            <End Role="Proveedor" EntitySet="Personas" />
+          </AssociationSet>
+          <AssociationSet Name="CondicionIvaPersonaJuridica" Association="ModeloGastronomia.CondicionIvaPersonaJuridica">
+            <End Role="CondicionIva" EntitySet="CondicionIvas" />
+            <End Role="PersonaJuridica" EntitySet="Personas" />
+          </AssociationSet>
+          <EntitySet Name="Facturas" EntityType="ModeloGastronomia.Factura" />
+          <AssociationSet Name="ClienteSalon" Association="ModeloGastronomia.ClienteSalon">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="Salon" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <AssociationSet Name="MesaReserva" Association="ModeloGastronomia.MesaReserva">
+            <End Role="Mesa" EntitySet="Mesas" />
+            <End Role="Reserva" EntitySet="Comprobantes" />
+          </AssociationSet>
+          <EntitySet Name="CuentasCorriente" EntityType="ModeloGastronomia.CuentaCorriente" />
+          <AssociationSet Name="ClienteCuentaCorriente" Association="ModeloGastronomia.ClienteCuentaCorriente">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="CuentaCorriente" EntitySet="CuentasCorriente" />
+          </AssociationSet>
+          <EntitySet Name="Movimientos" EntityType="ModeloGastronomia.Movimiento" />
+          <AssociationSet Name="EmpleadoFactura" Association="ModeloGastronomia.EmpleadoFactura">
+            <End Role="Empleado" EntitySet="Personas" />
+            <End Role="Factura" EntitySet="Facturas" />
+          </AssociationSet>
+          <AssociationSet Name="ClienteFactura" Association="ModeloGastronomia.ClienteFactura">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="Factura" EntitySet="Facturas" />
+          </AssociationSet>
+          <AssociationSet Name="CuentaCorrienteFactura" Association="ModeloGastronomia.CuentaCorrienteFactura">
+            <End Role="CuentaCorriente" EntitySet="CuentasCorriente" />
+            <End Role="Factura" EntitySet="Facturas" />
+          </AssociationSet>
+          <AssociationSet Name="ComprobanteFactura" Association="ModeloGastronomia.ComprobanteFactura">
+            <End Role="Comprobante" EntitySet="Comprobantes" />
+            <End Role="Factura" EntitySet="Facturas" />
+          </AssociationSet>
+          <AssociationSet Name="FacturaMovimiento" Association="ModeloGastronomia.FacturaMovimiento">
+            <End Role="Factura" EntitySet="Facturas" />
+            <End Role="Movimiento" EntitySet="Movimientos" />
+          </AssociationSet>
+          <AssociationSet Name="ClienteMovimiento" Association="ModeloGastronomia.ClienteMovimiento">
+            <End Role="Cliente" EntitySet="Personas" />
+            <End Role="Movimiento" EntitySet="Movimientos" />
+          </AssociationSet>
+          <EntitySet Name="PedidosProducto" EntityType="ModeloGastronomia.PedidoProducto" />
+          <AssociationSet Name="ProductoPedidoProducto" Association="ModeloGastronomia.ProductoPedidoProducto">
+            <End Role="Producto" EntitySet="Productos" />
+            <End Role="PedidoProducto" EntitySet="PedidosProducto" />
+          </AssociationSet>
+          <AssociationSet Name="ProveedorPedidoProducto" Association="ModeloGastronomia.ProveedorPedidoProducto">
+            <End Role="Proveedor" EntitySet="Personas" />
+            <End Role="PedidoProducto" EntitySet="PedidosProducto" />
+          </AssociationSet>
+          <AssociationSet Name="ProveedorMovimiento" Association="ModeloGastronomia.ProveedorMovimiento">
+            <End Role="Proveedor" EntitySet="Personas" />
+            <End Role="Movimiento" EntitySet="Movimientos" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="Persona" Abstract="true">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Direccion" Type="String" Nullable="false" />
+          <Property Name="Teléfono" Type="String" Nullable="false" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PersonaFisica" BaseType="ModeloGastronomia.Persona" Abstract="true" >
+          <Property Name="Apellido" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="Nombre" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="Dni" Type="String" Nullable="false" MaxLength="8" />
+          <Property Name="Cuil" Type="String" Nullable="false" MaxLength="11" />
+          <Property Name="Celular" Type="String" Nullable="false" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="Empleado" BaseType="ModeloGastronomia.PersonaFisica" >
+          <Property Name="Legajo" Type="Int32" Nullable="false" />
+          <Property Name="TipoEmpleado" Type="ModeloGastronomia.TipoEmpleado" Nullable="false" />
+          <NavigationProperty Name="Reservas" Relationship="ModeloGastronomia.EmpleadoReserva" FromRole="Empleado" ToRole="Reserva" />
+          <NavigationProperty Name="Salones" Relationship="ModeloGastronomia.MozoSalon" FromRole="Empleado" ToRole="Salon" />
+          <NavigationProperty Name="Deliveries" Relationship="ModeloGastronomia.CadeteDelivery" FromRole="Empleado" ToRole="Delivery" />
+          <NavigationProperty Name="Usuario" Relationship="ModeloGastronomia.EmpleadoUsuario" FromRole="Empleado" ToRole="Usuario" />
+          <Property Name="estaEliminado" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Factura" Relationship="ModeloGastronomia.EmpleadoFactura" FromRole="Empleado" ToRole="Factura" />
+        </EntityType>
+        <EntityType Name="Cliente" BaseType="ModeloGastronomia.PersonaFisica" >
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Reservas" Relationship="ModeloGastronomia.ClienteReserva" FromRole="Cliente" ToRole="Reserva" />
+          <NavigationProperty Name="Deliveries" Relationship="ModeloGastronomia.ClienteDelivery" FromRole="Cliente" ToRole="Delivery" />
+          <Property Name="estaEliminado" Type="Boolean" Nullable="false" />
+          <Property Name="ActivoParaCompra" Type="Boolean" Nullable="false" />
+          <Property Name="TieneCtaCte" Type="Boolean" Nullable="false" />
+          <Property Name="MontoMaximo" Type="Decimal" Nullable="true" />
+          <Property Name="DeudaTotal" Type="Decimal" Nullable="true" />
+          <NavigationProperty Name="Salon" Relationship="ModeloGastronomia.ClienteSalon" FromRole="Cliente" ToRole="Salon" />
+          <Property Name="EstaOcupado" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="CuentaCorriente" Relationship="ModeloGastronomia.ClienteCuentaCorriente" FromRole="Cliente" ToRole="CuentaCorriente" />
+          <NavigationProperty Name="Factura" Relationship="ModeloGastronomia.ClienteFactura" FromRole="Cliente" ToRole="Factura" />
+          <NavigationProperty Name="Movimiento" Relationship="ModeloGastronomia.ClienteMovimiento" FromRole="Cliente" ToRole="Movimiento" />
+        </EntityType>
+        <EnumType Name="TipoEmpleado">
+          <Member Name="Cadete" Value="1" />
+          <Member Name="Cajero" Value="2" />
+          <Member Name="Administrativo" Value="3" />
+          <Member Name="Mozo" Value="4" />
+        </EnumType>
+        <EntityType Name="Usuario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Perfil" Relationship="ModeloGastronomia.UsuarioPerfil" FromRole="Usuario" ToRole="Perfil" />
+          <Property Name="Nombre" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="Password" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="EstaBloqueado" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Empleado" Relationship="ModeloGastronomia.EmpleadoUsuario" FromRole="Usuario" ToRole="Empleado" />
+        </EntityType>
+        <EntityType Name="Perfil">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Usuario" Relationship="ModeloGastronomia.UsuarioPerfil" FromRole="Perfil" ToRole="Usuario" />
+          <NavigationProperty Name="Permiso" Relationship="ModeloGastronomia.PerfilPermiso" FromRole="Perfil" ToRole="Permiso" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+        </EntityType>
+        <Association Name="UsuarioPerfil">
+          <End Type="ModeloGastronomia.Usuario" Role="Usuario" Multiplicity="*" />
+          <End Type="ModeloGastronomia.Perfil" Role="Perfil" Multiplicity="*" />
+        </Association>
+        <EntityType Name="Permiso">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="Formulario" Type="String" Nullable="false" MaxLength="250" />
+          <NavigationProperty Name="Perfil" Relationship="ModeloGastronomia.PerfilPermiso" FromRole="Permiso" ToRole="Perfil" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <Association Name="PerfilPermiso">
+          <End Type="ModeloGastronomia.Perfil" Role="Perfil" Multiplicity="*" />
+          <End Type="ModeloGastronomia.Permiso" Role="Permiso" Multiplicity="*" />
+        </Association>
+        <EntityType Name="Comprobante" Abstract="true">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fecha" Type="DateTime" Nullable="false" />
+          <NavigationProperty Name="Factura" Relationship="ModeloGastronomia.ComprobanteFactura" FromRole="Comprobante" ToRole="Factura" />
+          </EntityType>
+        <EntityType Name="Reserva" BaseType="ModeloGastronomia.Comprobante" >
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteReserva" FromRole="Reserva" ToRole="Cliente" />
+          <Property Name="ClienteId" Type="Int64" Nullable="false" />
+          <Property Name="FechaReserva" Type="DateTime" Nullable="false" />
+          <Property Name="CantidadComensales" Type="Int32" Nullable="false" />
+          <Property Name="EstadoReserva" Type="ModeloGastronomia.EstadoReserva" Nullable="false" />
+          <NavigationProperty Name="Empleado" Relationship="ModeloGastronomia.EmpleadoReserva" FromRole="Reserva" ToRole="Empleado" />
+          <Property Name="EmpleadoId" Type="Int64" Nullable="false" />
+          <Property Name="Observacion" Type="String" Nullable="false" MaxLength="500" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Mesa" Relationship="ModeloGastronomia.MesaReserva" FromRole="Reserva" ToRole="Mesa" />
+          <Property Name="MesaId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <Association Name="ClienteReserva">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Reserva" Role="Reserva" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reserva">
+              <PropertyRef Name="ClienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EnumType Name="EstadoReserva">
+          <Member Name="Reservado" Value="1" />
+          <Member Name="Confirmado" Value="2" />
+        </EnumType>
+        <Association Name="EmpleadoReserva">
+          <End Type="ModeloGastronomia.Empleado" Role="Empleado" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Reserva" Role="Reserva" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Empleado">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reserva">
+              <PropertyRef Name="EmpleadoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Salon" BaseType="ModeloGastronomia.Comprobante" >
+          <NavigationProperty Name="Mesa" Relationship="ModeloGastronomia.MesaSalon" FromRole="Salon" ToRole="Mesa" />
+          <Property Name="MesaId" Type="Int64" Nullable="false" />
+          <Property Name="Cubiertos" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Mozo" Relationship="ModeloGastronomia.MozoSalon" FromRole="Salon" ToRole="Empleado" />
+          <Property Name="MozoId" Type="Int64" Nullable="false" />
+          <Property Name="Subtotal" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="Descuento" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="Total" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <NavigationProperty Name="DetallesSalones" Relationship="ModeloGastronomia.SalonDetalleSalon" FromRole="Salon" ToRole="DetalleSalon" />
+          <Property Name="EstadoSalon" Type="ModeloGastronomia.EstadoSalon" Nullable="false" />
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteSalon" FromRole="Salon" ToRole="Cliente" />
+          <Property Name="ClienteId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Mesa">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="EstadoMesa" Type="ModeloGastronomia.EstadoMesa" Nullable="false" />
+          <NavigationProperty Name="Salones" Relationship="ModeloGastronomia.MesaSalon" FromRole="Mesa" ToRole="Salon" />
+          <NavigationProperty Name="Reserva" Relationship="ModeloGastronomia.MesaReserva" FromRole="Mesa" ToRole="Reserva" />
+        </EntityType>
+        <EnumType Name="EstadoMesa">
+          <Member Name="Libre" Value="1" />
+          <Member Name="Reservada" Value="2" />
+          <Member Name="Ocupada" Value="3" />
+          <Member Name="Reparacion" Value="4" />
+          <Member Name="Facturada" Value="5" />
+        </EnumType>
+        <Association Name="MesaSalon">
+          <End Type="ModeloGastronomia.Mesa" Role="Mesa" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Salon" Role="Salon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mesa">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Salon">
+              <PropertyRef Name="MesaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="MozoSalon">
+          <End Type="ModeloGastronomia.Empleado" Role="Empleado" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Salon" Role="Salon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Empleado">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Salon">
+              <PropertyRef Name="MozoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="DetalleComprobante" Abstract="true">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Cantidad" Type="Int32" Nullable="false" />
+          <Property Name="SubTotal" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="Codigo" Type="String" Nullable="false" MaxLength="20" />
+          <Property Name="CodigoBarra" Type="String" Nullable="false" MaxLength="200" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="Precio" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <NavigationProperty Name="Producto" Relationship="ModeloGastronomia.ProductoDetalleComprobante" FromRole="DetalleComprobante" ToRole="Producto" />
+          <Property Name="ProductoId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Producto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="CodigoBarra" Type="String" Nullable="false" MaxLength="50" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <Property Name="Stock" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="DetallesComprobantes" Relationship="ModeloGastronomia.ProductoDetalleComprobante" FromRole="Producto" ToRole="DetalleComprobante" />
+          <NavigationProperty Name="SubRubro" Relationship="ModeloGastronomia.SubRubroProducto" FromRole="Producto" ToRole="SubRubro" />
+          <Property Name="SubRubroId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="Marca" Relationship="ModeloGastronomia.MarcaProducto" FromRole="Producto" ToRole="Marca" />
+          <Property Name="MarcaId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="ListasPreciosProductos" Relationship="ModeloGastronomia.ProductoListaPrecioProducto" FromRole="Producto" ToRole="ListaPrecioProducto" />
+          <NavigationProperty Name="Proveedores" Relationship="ModeloGastronomia.ProveedorProducto" FromRole="Producto" ToRole="Proveedor" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="PedidoProducto" Relationship="ModeloGastronomia.ProductoPedidoProducto" FromRole="Producto" ToRole="PedidoProducto" />
+        </EntityType>
+        <Association Name="ProductoDetalleComprobante">
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="1" />
+          <End Type="ModeloGastronomia.DetalleComprobante" Role="DetalleComprobante" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Producto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="DetalleComprobante">
+              <PropertyRef Name="ProductoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Marca">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="150" />
+          <NavigationProperty Name="Productos" Relationship="ModeloGastronomia.MarcaProducto" FromRole="Marca" ToRole="Producto" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Rubro">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <NavigationProperty Name="SubRubros" Relationship="ModeloGastronomia.RubroSubRubro" FromRole="Rubro" ToRole="SubRubro" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Proveedor" Relationship="ModeloGastronomia.RubroProveedor" FromRole="Rubro" ToRole="Proveedor" />
+        </EntityType>
+        <EntityType Name="SubRubro">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <NavigationProperty Name="Rubro" Relationship="ModeloGastronomia.RubroSubRubro" FromRole="SubRubro" ToRole="Rubro" />
+          <Property Name="RubroId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="Productos" Relationship="ModeloGastronomia.SubRubroProducto" FromRole="SubRubro" ToRole="Producto" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <Association Name="RubroSubRubro">
+          <End Type="ModeloGastronomia.Rubro" Role="Rubro" Multiplicity="1" />
+          <End Type="ModeloGastronomia.SubRubro" Role="SubRubro" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rubro">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="SubRubro">
+              <PropertyRef Name="RubroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="SubRubroProducto">
+          <End Type="ModeloGastronomia.SubRubro" Role="SubRubro" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SubRubro">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Producto">
+              <PropertyRef Name="SubRubroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="MarcaProducto">
+          <End Type="ModeloGastronomia.Marca" Role="Marca" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Marca">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Producto">
+              <PropertyRef Name="MarcaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="DetalleSalon" BaseType="ModeloGastronomia.DetalleComprobante" >
+          <NavigationProperty Name="Salon" Relationship="ModeloGastronomia.SalonDetalleSalon" FromRole="DetalleSalon" ToRole="Salon" />
+          <Property Name="SalonId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <Association Name="SalonDetalleSalon">
+          <End Type="ModeloGastronomia.Salon" Role="Salon" Multiplicity="1" />
+          <End Type="ModeloGastronomia.DetalleSalon" Role="DetalleSalon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Salon">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="DetalleSalon">
+              <PropertyRef Name="SalonId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="DetalleDelivery" BaseType="ModeloGastronomia.DetalleComprobante" >
+          <NavigationProperty Name="Delivery" Relationship="ModeloGastronomia.DeliveryDetalleDelivery" FromRole="DetalleDelivery" ToRole="Delivery" />
+          <Property Name="DeliveryId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Delivery" BaseType="ModeloGastronomia.Comprobante" >
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteDelivery" FromRole="Delivery" ToRole="Cliente" />
+          <Property Name="ClienteId" Type="Int64" Nullable="false" />
+          <Property Name="Total" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="DireccionEnvio" Type="String" Nullable="false" MaxLength="400" />
+          <Property Name="Observacion" Type="String" Nullable="true" MaxLength="400" />
+          <Property Name="EstadoDelivery" Type="ModeloGastronomia.EstadoDelivery" Nullable="false" />
+          <NavigationProperty Name="DetallesDeliveries" Relationship="ModeloGastronomia.DeliveryDetalleDelivery" FromRole="Delivery" ToRole="DetalleDelivery" />
+          <NavigationProperty Name="Cadete" Relationship="ModeloGastronomia.CadeteDelivery" FromRole="Delivery" ToRole="Empleado" />
+          <Property Name="CadeteId" Type="Int64" Nullable="false" />
+          <Property Name="Descuento" Type="Decimal" Nullable="false" />
+          <Property Name="SubTotal" Type="Decimal" Nullable="false" />
+        </EntityType>
+        <Association Name="ClienteDelivery">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Delivery" Role="Delivery" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Delivery">
+              <PropertyRef Name="ClienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EnumType Name="EstadoDelivery">
+          <Member Name="EnProceso" Value="1" />
+          <Member Name="Enviado" Value="2" />
+          <Member Name="Cobrado" Value="3" />
+        </EnumType>
+        <Association Name="DeliveryDetalleDelivery">
+          <End Type="ModeloGastronomia.Delivery" Role="Delivery" Multiplicity="1" />
+          <End Type="ModeloGastronomia.DetalleDelivery" Role="DetalleDelivery" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Delivery">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="DetalleDelivery">
+              <PropertyRef Name="DeliveryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="CadeteDelivery">
+          <End Type="ModeloGastronomia.Empleado" Multiplicity="1" Role="Empleado" />
+          <End Type="ModeloGastronomia.Delivery" Multiplicity="*" Role="Delivery" />
+          <ReferentialConstraint>
+            <Principal Role="Empleado">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Delivery">
+              <PropertyRef Name="CadeteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ListaPrecio">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="250" />
+          <NavigationProperty Name="Alicuotas" Relationship="ModeloGastronomia.ListaPrecioAlicuota" FromRole="ListaPrecio" ToRole="Alicuota" />
+          <NavigationProperty Name="ListasPreciosProductos" Relationship="ModeloGastronomia.ListaPrecioListaPrecioProducto" FromRole="ListaPrecio" ToRole="ListaPrecioProducto" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Alicuota">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FechaActualizacion" Type="DateTime" Nullable="false" />
+          <Property Name="Porcentaje" Type="Decimal" Nullable="false" />
+          <NavigationProperty Name="ListaPrecio" Relationship="ModeloGastronomia.ListaPrecioAlicuota" FromRole="Alicuota" ToRole="ListaPrecio" />
+          <Property Name="ListaPrecioId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <Association Name="ListaPrecioAlicuota">
+          <End Type="ModeloGastronomia.ListaPrecio" Role="ListaPrecio" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Alicuota" Role="Alicuota" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ListaPrecio">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Alicuota">
+              <PropertyRef Name="ListaPrecioId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ListaPrecioProducto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="ListaPrecio" Relationship="ModeloGastronomia.ListaPrecioListaPrecioProducto" FromRole="ListaPrecioProducto" ToRole="ListaPrecio" />
+          <Property Name="ListaPrecioId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="Producto" Relationship="ModeloGastronomia.ProductoListaPrecioProducto" FromRole="ListaPrecioProducto" ToRole="Producto" />
+          <Property Name="ProductoId" Type="Int32" Nullable="false" />
+          <Property Name="PrecioCosto" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="PrecioPublico" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+          <Property Name="Alicuota" Type="Decimal" Nullable="false" Scale="2" Precision="18" />
+          <Property Name="FechaActualizacion" Type="DateTime" Nullable="false" />
+          <Property Name="EstaEliminado" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <Association Name="ListaPrecioListaPrecioProducto">
+          <End Type="ModeloGastronomia.ListaPrecio" Role="ListaPrecio" Multiplicity="1" />
+          <End Type="ModeloGastronomia.ListaPrecioProducto" Role="ListaPrecioProducto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ListaPrecio">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ListaPrecioProducto">
+              <PropertyRef Name="ListaPrecioId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ProductoListaPrecioProducto">
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="1" />
+          <End Type="ModeloGastronomia.ListaPrecioProducto" Role="ListaPrecioProducto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Producto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ListaPrecioProducto">
+              <PropertyRef Name="ProductoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="PersonaJuridica" BaseType="ModeloGastronomia.Persona" Abstract="true" >
+          <Property Name="Cuit" Type="String" Nullable="false" MaxLength="20" />
+          <Property Name="RazonSocial" Type="String" Nullable="false" MaxLength="400" />
+          <Property Name="NombreFantacia" Type="String" Nullable="false" MaxLength="400" />
+          <Property Name="FechaInicioActividad" Type="DateTime" Nullable="false" />
+          <Property Name="IngresosBrutos" Type="Decimal" Nullable="false" />
+          <NavigationProperty Name="CondicionIva" Relationship="ModeloGastronomia.CondicionIvaPersonaJuridica" FromRole="PersonaJuridica" ToRole="CondicionIva" />
+          <Property Name="CondicionIvaId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CondicionIva">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Descripcion" Type="String" Nullable="false" />
+          <Property Name="Codigo" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="PersonaJuridica" Relationship="ModeloGastronomia.CondicionIvaPersonaJuridica" FromRole="CondicionIva" ToRole="PersonaJuridica" />
+        </EntityType>
+        <EntityType Name="Proveedor" BaseType="ModeloGastronomia.PersonaJuridica" >
+          <Property Name="ApyNomContacto" Type="String" Nullable="false" MaxLength="250" />
+          <NavigationProperty Name="Productos" Relationship="ModeloGastronomia.ProveedorProducto" FromRole="Proveedor" ToRole="Producto" />
+          <NavigationProperty Name="Rubro" Relationship="ModeloGastronomia.RubroProveedor" FromRole="Proveedor" ToRole="Rubro" />
+          <Property Name="RubroId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="PedidoProducto" Relationship="ModeloGastronomia.ProveedorPedidoProducto" FromRole="Proveedor" ToRole="PedidoProducto" />
+          <NavigationProperty Name="Movimiento" Relationship="ModeloGastronomia.ProveedorMovimiento" FromRole="Proveedor" ToRole="Movimiento" />
+        </EntityType>
+        <Association Name="ProveedorProducto">
+          <End Type="ModeloGastronomia.Proveedor" Role="Proveedor" Multiplicity="*" />
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="*" />
+        </Association>
+        <EnumType Name="EstadoSalon" >
+          <Member Name="Pendiente" Value="1" />
+          <Member Name="Facturado" Value="2" />
+        </EnumType>
+        <Association Name="EmpleadoUsuario">
+          <End Type="ModeloGastronomia.Empleado" Role="Empleado" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Usuario" Role="Usuario" Multiplicity="1" />
+        </Association>
+        <Association Name="RubroProveedor">
+          <End Type="ModeloGastronomia.Rubro" Role="Rubro" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Proveedor" Role="Proveedor" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rubro">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Proveedor">
+              <PropertyRef Name="RubroId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="CondicionIvaPersonaJuridica">
+          <End Type="ModeloGastronomia.CondicionIva" Role="CondicionIva" Multiplicity="1" />
+          <End Type="ModeloGastronomia.PersonaJuridica" Role="PersonaJuridica" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CondicionIva">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PersonaJuridica">
+              <PropertyRef Name="CondicionIvaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Factura">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fecha" Type="DateTime" Nullable="false" />
+          <Property Name="Estado" Type="ModeloGastronomia.EstadoFactura" Nullable="false" />
+          <Property Name="Total" Type="Decimal" Nullable="false" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Empleado" Relationship="ModeloGastronomia.EmpleadoFactura" FromRole="Factura" ToRole="Empleado" />
+          <Property Name="EmpleadoId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteFactura" FromRole="Factura" ToRole="Cliente" />
+          <Property Name="ClienteId" Type="Int64" Nullable="false" />
+          <NavigationProperty Name="CuentaCorriente" Relationship="ModeloGastronomia.CuentaCorrienteFactura" FromRole="Factura" ToRole="CuentaCorriente" />
+          <Property Name="CuentaCorrienteId" Type="Int64" Nullable="true" />
+          <NavigationProperty Name="Comprobante" Relationship="ModeloGastronomia.ComprobanteFactura" FromRole="Factura" ToRole="Comprobante" />
+          <NavigationProperty Name="Movimiento" Relationship="ModeloGastronomia.FacturaMovimiento" FromRole="Factura" ToRole="Movimiento" />
+          <Property Name="TotalAbonado" Type="Decimal" Nullable="false" />
+        </EntityType>
+        <Association Name="ClienteSalon">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Salon" Role="Salon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Salon">
+              <PropertyRef Name="ClienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="MesaReserva">
+          <End Type="ModeloGastronomia.Mesa" Role="Mesa" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Reserva" Role="Reserva" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Mesa">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Reserva">
+              <PropertyRef Name="MesaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EnumType Name="EstadoFactura">
+          <Member Name="Pagada" Value="1" />
+          <Member Name="PagadaParcial" Value="2" />
+          <Member Name="Impagada" Value="3" />
+        </EnumType>
+        <EntityType Name="CuentaCorriente">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <Property Name="Fecha" Type="DateTime" Nullable="false" />
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteCuentaCorriente" FromRole="CuentaCorriente" ToRole="Cliente" />
+          <Property Name="EstaHabilitada" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Factura" Relationship="ModeloGastronomia.CuentaCorrienteFactura" FromRole="CuentaCorriente" ToRole="Factura" />
+        </EntityType>
+        <Association Name="ClienteCuentaCorriente">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ModeloGastronomia.CuentaCorriente" Role="CuentaCorriente" Multiplicity="0..1" />
+        </Association>
+        <EnumType Name="TipoMovimiento">
+          <Member Name="Ingreso" Value="1" />
+          <Member Name="Egreso" Value="2" />
+        </EnumType>
+        <EntityType Name="Movimiento">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fecha" Type="DateTime" Nullable="false" />
+          <Property Name="Tipo" Type="ModeloGastronomia.TipoMovimiento" Nullable="false" />
+          <Property Name="Monto" Type="Decimal" Nullable="false" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Factura" Relationship="ModeloGastronomia.FacturaMovimiento" FromRole="Movimiento" ToRole="Factura" />
+          <Property Name="FacturaId" Type="Int64" Nullable="true" />
+          <NavigationProperty Name="Cliente" Relationship="ModeloGastronomia.ClienteMovimiento" FromRole="Movimiento" ToRole="Cliente" />
+          <Property Name="ClienteId" Type="Int64" Nullable="true" />
+          <NavigationProperty Name="Proveedor" Relationship="ModeloGastronomia.ProveedorMovimiento" FromRole="Movimiento" ToRole="Proveedor" />
+          <Property Name="ProveedorId" Type="Int64" Nullable="true" />
+        </EntityType>
+        <Association Name="EmpleadoFactura">
+          <End Type="ModeloGastronomia.Empleado" Role="Empleado" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Factura" Role="Factura" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Empleado">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Factura">
+              <PropertyRef Name="EmpleadoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ClienteFactura">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Factura" Role="Factura" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Factura">
+              <PropertyRef Name="ClienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="CuentaCorrienteFactura">
+          <End Type="ModeloGastronomia.CuentaCorriente" Role="CuentaCorriente" Multiplicity="0..1" />
+          <End Type="ModeloGastronomia.Factura" Role="Factura" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CuentaCorriente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Factura">
+              <PropertyRef Name="CuentaCorrienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ComprobanteFactura">
+          <End Type="ModeloGastronomia.Comprobante" Role="Comprobante" Multiplicity="1" />
+          <End Type="ModeloGastronomia.Factura" Role="Factura" Multiplicity="0..1" />
+        </Association>
+        <Association Name="FacturaMovimiento">
+          <End Type="ModeloGastronomia.Factura" Role="Factura" Multiplicity="0..1" />
+          <End Type="ModeloGastronomia.Movimiento" Role="Movimiento" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Factura">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Movimiento">
+              <PropertyRef Name="FacturaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ClienteMovimiento">
+          <End Type="ModeloGastronomia.Cliente" Role="Cliente" Multiplicity="0..1" />
+          <End Type="ModeloGastronomia.Movimiento" Role="Movimiento" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Movimiento">
+              <PropertyRef Name="ClienteId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="PedidoProducto">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Numero" Type="Int32" Nullable="false" />
+          <Property Name="Fecha" Type="DateTime" Nullable="false" />
+          <Property Name="PrecioCosto" Type="Decimal" Nullable="false" />
+          <Property Name="Cantidad" Type="Int32" Nullable="false" />
+          <Property Name="Total" Type="Decimal" Nullable="false" />
+          <NavigationProperty Name="Producto" Relationship="ModeloGastronomia.ProductoPedidoProducto" FromRole="PedidoProducto" ToRole="Producto" />
+          <Property Name="ProductoId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Proveedor" Relationship="ModeloGastronomia.ProveedorPedidoProducto" FromRole="PedidoProducto" ToRole="Proveedor" />
+          <Property Name="ProveedorId" Type="Int64" Nullable="false" />
+        </EntityType>
+        <Association Name="ProductoPedidoProducto">
+          <End Type="ModeloGastronomia.Producto" Role="Producto" Multiplicity="1" />
+          <End Type="ModeloGastronomia.PedidoProducto" Role="PedidoProducto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Producto">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PedidoProducto">
+              <PropertyRef Name="ProductoId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ProveedorPedidoProducto">
+          <End Type="ModeloGastronomia.Proveedor" Role="Proveedor" Multiplicity="1" />
+          <End Type="ModeloGastronomia.PedidoProducto" Role="PedidoProducto" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proveedor">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PedidoProducto">
+              <PropertyRef Name="ProveedorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ProveedorMovimiento">
+          <End Type="ModeloGastronomia.Proveedor" Role="Proveedor" Multiplicity="0..1" />
+          <End Type="ModeloGastronomia.Movimiento" Role="Movimiento" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Proveedor">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Movimiento">
+              <PropertyRef Name="ProveedorId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModeloGastronomiaStoreContainer" CdmEntityContainer="ModeloGastronomiaContainer">
+    <EntitySetMapping Name="Personas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Persona)">
+        <MappingFragment StoreEntitySet="Personas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Teléfono" ColumnName="Teléfono" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.PersonaFisica)">
+        <MappingFragment StoreEntitySet="Personas_PersonaFisica">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Dni" ColumnName="Dni" />
+          <ScalarProperty Name="Cuil" ColumnName="Cuil" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Cliente)">
+        <MappingFragment StoreEntitySet="Personas_Cliente">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="estaEliminado" ColumnName="estaEliminado" />
+          <ScalarProperty Name="ActivoParaCompra" ColumnName="ActivoParaCompra" />
+          <ScalarProperty Name="TieneCtaCte" ColumnName="TieneCtaCte" />
+          <ScalarProperty Name="MontoMaximo" ColumnName="MontoMaximo" />
+          <ScalarProperty Name="DeudaTotal" ColumnName="DeudaTotal" />
+          <ScalarProperty Name="EstaOcupado" ColumnName="EstaOcupado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Empleado)">
+        <MappingFragment StoreEntitySet="Personas_Empleado">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Legajo" ColumnName="Legajo" />
+          <ScalarProperty Name="TipoEmpleado" ColumnName="TipoEmpleado" />
+          <ScalarProperty Name="estaEliminado" ColumnName="estaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.PersonaJuridica)">
+        <MappingFragment StoreEntitySet="Personas_PersonaJuridica">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Cuit" ColumnName="Cuit" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+          <ScalarProperty Name="NombreFantacia" ColumnName="NombreFantacia" />
+          <ScalarProperty Name="FechaInicioActividad" ColumnName="FechaInicioActividad" />
+          <ScalarProperty Name="IngresosBrutos" ColumnName="IngresosBrutos" />
+          <ScalarProperty Name="CondicionIvaId" ColumnName="CondicionIvaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Proveedor)">
+        <MappingFragment StoreEntitySet="Personas_Proveedor">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ApyNomContacto" ColumnName="ApyNomContacto" />
+          <ScalarProperty Name="RubroId" ColumnName="RubroId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Usuario)">
+        <MappingFragment StoreEntitySet="Usuarios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="EstaBloqueado" ColumnName="EstaBloqueado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Perfiles">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Perfil)">
+        <MappingFragment StoreEntitySet="Perfiles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permisos">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Permiso)">
+        <MappingFragment StoreEntitySet="Permisos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Formulario" ColumnName="Formulario" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comprobantes">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Comprobante)">
+        <MappingFragment StoreEntitySet="Comprobantes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Reserva)">
+        <MappingFragment StoreEntitySet="Comprobantes_Reserva">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+          <ScalarProperty Name="FechaReserva" ColumnName="FechaReserva" />
+          <ScalarProperty Name="CantidadComensales" ColumnName="CantidadComensales" />
+          <ScalarProperty Name="EstadoReserva" ColumnName="EstadoReserva" />
+          <ScalarProperty Name="EmpleadoId" ColumnName="EmpleadoId" />
+          <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="MesaId" ColumnName="MesaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Salon)">
+        <MappingFragment StoreEntitySet="Comprobantes_Salon">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MesaId" ColumnName="MesaId" />
+          <ScalarProperty Name="Cubiertos" ColumnName="Cubiertos" />
+          <ScalarProperty Name="MozoId" ColumnName="MozoId" />
+          <ScalarProperty Name="Subtotal" ColumnName="Subtotal" />
+          <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="EstadoSalon" ColumnName="EstadoSalon" />
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Delivery)">
+        <MappingFragment StoreEntitySet="Comprobantes_Delivery">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="DireccionEnvio" ColumnName="DireccionEnvio" />
+          <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+          <ScalarProperty Name="EstadoDelivery" ColumnName="EstadoDelivery" />
+          <ScalarProperty Name="CadeteId" ColumnName="CadeteId" />
+          <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+          <ScalarProperty Name="SubTotal" ColumnName="SubTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mesas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Mesa)">
+        <MappingFragment StoreEntitySet="Mesas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="EstadoMesa" ColumnName="EstadoMesa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DetalleComprobantes">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.DetalleComprobante)">
+        <MappingFragment StoreEntitySet="DetalleComprobantes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="SubTotal" ColumnName="SubTotal" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="CodigoBarra" ColumnName="CodigoBarra" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.DetalleSalon)">
+        <MappingFragment StoreEntitySet="DetalleComprobantes_DetalleSalon">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SalonId" ColumnName="SalonId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.DetalleDelivery)">
+        <MappingFragment StoreEntitySet="DetalleComprobantes_DetalleDelivery">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DeliveryId" ColumnName="DeliveryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Productos">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Producto)">
+        <MappingFragment StoreEntitySet="Productos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="CodigoBarra" ColumnName="CodigoBarra" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+          <ScalarProperty Name="SubRubroId" ColumnName="SubRubroId" />
+          <ScalarProperty Name="MarcaId" ColumnName="MarcaId" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marcas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Marca)">
+        <MappingFragment StoreEntitySet="Marcas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rubros">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Rubro)">
+        <MappingFragment StoreEntitySet="Rubros">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubRubros">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.SubRubro)">
+        <MappingFragment StoreEntitySet="SubRubros">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="RubroId" ColumnName="RubroId" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ListaPrecios">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.ListaPrecio)">
+        <MappingFragment StoreEntitySet="ListaPrecios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Alicuotas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Alicuota)">
+        <MappingFragment StoreEntitySet="Alicuotas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FechaActualizacion" ColumnName="FechaActualizacion" />
+          <ScalarProperty Name="Porcentaje" ColumnName="Porcentaje" />
+          <ScalarProperty Name="ListaPrecioId" ColumnName="ListaPrecioId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ListaPrecioProductos">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.ListaPrecioProducto)">
+        <MappingFragment StoreEntitySet="ListaPrecioProductos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ListaPrecioId" ColumnName="ListaPrecioId" />
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="PrecioCosto" ColumnName="PrecioCosto" />
+          <ScalarProperty Name="PrecioPublico" ColumnName="PrecioPublico" />
+          <ScalarProperty Name="Alicuota" ColumnName="Alicuota" />
+          <ScalarProperty Name="FechaActualizacion" ColumnName="FechaActualizacion" />
+          <ScalarProperty Name="EstaEliminado" ColumnName="EstaEliminado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CondicionIvas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.CondicionIva)">
+        <MappingFragment StoreEntitySet="CondicionIvas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Facturas">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Factura)">
+        <MappingFragment StoreEntitySet="Facturas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="EmpleadoId" ColumnName="EmpleadoId" />
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+          <ScalarProperty Name="CuentaCorrienteId" ColumnName="CuentaCorrienteId" />
+          <ScalarProperty Name="TotalAbonado" ColumnName="TotalAbonado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CuentasCorriente">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.CuentaCorriente)">
+        <MappingFragment StoreEntitySet="CuentasCorriente">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="EstaHabilitada" ColumnName="EstaHabilitada" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Movimientos">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.Movimiento)">
+        <MappingFragment StoreEntitySet="Movimientos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="FacturaId" ColumnName="FacturaId" />
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+          <ScalarProperty Name="ProveedorId" ColumnName="ProveedorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PedidosProducto">
+      <EntityTypeMapping TypeName="IsTypeOf(ModeloGastronomia.PedidoProducto)">
+        <MappingFragment StoreEntitySet="PedidosProducto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="PrecioCosto" ColumnName="PrecioCosto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="ProveedorId" ColumnName="ProveedorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="UsuarioPerfil" TypeName="ModeloGastronomia.UsuarioPerfil" StoreEntitySet="UsuarioPerfil">
+      <EndProperty Name="Usuario">
+        <ScalarProperty Name="Id" ColumnName="Usuario_Id" />
+      </EndProperty>
+      <EndProperty Name="Perfil">
+        <ScalarProperty Name="Id" ColumnName="Perfil_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PerfilPermiso" TypeName="ModeloGastronomia.PerfilPermiso" StoreEntitySet="PerfilPermiso">
+      <EndProperty Name="Perfil">
+        <ScalarProperty Name="Id" ColumnName="Perfil_Id" />
+      </EndProperty>
+      <EndProperty Name="Permiso">
+        <ScalarProperty Name="Id" ColumnName="Permiso_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ProveedorProducto" TypeName="ModeloGastronomia.ProveedorProducto" StoreEntitySet="ProveedorProducto">
+      <EndProperty Name="Proveedor">
+        <ScalarProperty Name="Id" ColumnName="Proveedores_Id" />
+      </EndProperty>
+      <EndProperty Name="Producto">
+        <ScalarProperty Name="Id" ColumnName="Productos_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="EmpleadoUsuario" TypeName="ModeloGastronomia.EmpleadoUsuario" StoreEntitySet="Personas_Empleado">
+      <EndProperty Name="Usuario">
+        <ScalarProperty Name="Id" ColumnName="Usuario_Id" />
+      </EndProperty>
+      <EndProperty Name="Empleado">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ClienteCuentaCorriente" TypeName="ModeloGastronomia.ClienteCuentaCorriente" StoreEntitySet="CuentasCorriente">
+      <EndProperty Name="Cliente">
+        <ScalarProperty Name="Id" ColumnName="Cliente_Id" />
+      </EndProperty>
+      <EndProperty Name="CuentaCorriente">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="ComprobanteFactura" TypeName="ModeloGastronomia.ComprobanteFactura" StoreEntitySet="Facturas">
+      <EndProperty Name="Comprobante">
+        <ScalarProperty Name="Id" ColumnName="Comprobante_Id" />
+      </EndProperty>
+      <EndProperty Name="Factura">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

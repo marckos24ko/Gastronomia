@@ -1,0 +1,510 @@
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia 27-10\Gastronomia2710\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\santi\Desktop\Gastronomia Definitivo\Gastronomia\Gastronomia\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\MARCOS\Desktop\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\ultima\Gastronomia Definitivo\Gastronomia Definitivo\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes1_Lookup.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_LookUp.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery.Clientes_Seleccion.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0010_VentaDelivery.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.Empleado_Cadete_LookUp.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50001_ConsultaListaPrecio.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_Cta_Cte.resources
+C:\Users\MARCOS\Desktop\Final Lab 2 a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes_Cadete_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes_Cadete_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_Cta_Cte.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20001_ConsultaClientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0010_VentaDelivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0020_PreventaDelivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.Empleado_Cadete_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50001_ConsultaListaPrecio.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10003_Cliente_Mozo_Lookup.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10005_Reservar_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10006_ConfirmarReserva_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10004_Mesa_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._101_Elegir_FormaDePago.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._102_Abonar.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._101_Elegir_FormaDePago.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._102_Abonar_CtaCte.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._103_Abonar_Efectivo.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._104_EmisionFactura_CtaCte.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._105_EmisionFactura_Efectivo.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Abonar_CtaCte.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes_Cadete_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_Cta_Cte.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20001_ConsultaClientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._Cliente_CtaCte_EmisionFactura.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9001_ConsultaCondicionIva.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0010_VentaDelivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0020_PreventaDelivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0030_Elegir_FormaDePago_Delivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0040_Abonar_CtaCte_Delivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0050_Abonar_Efectivo_Delivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0060_EmisionFactura_CtaCte_Delivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0070_EmisionFactura_Efectivo_Delivery.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30001_ConsultaEmpleado.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90001_ConsultaListaPrecioProductos.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50001_ConsultaListaPrecio.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40001_ConsultaMarca.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Clientes.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Provedores.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50001_ConsultaProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5004_ComprobantePago.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60001_ConsultaProveedores.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70001_ConsultaRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80001_ConsultaSubRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10003_Cliente_Mozo_Lookup.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10004_Mesa_LookUp.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10005_Reservar_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10006_ConfirmarReserva_Mesa.resources
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\MARCOS\Desktop\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+A:\marcos\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Gastronomia\Gastronomia Final a Presentar\Gastronomia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\CircularProgressBar.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\DAL.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\EntityFramework.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Servicio.Core.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\WinFormAnimation.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\DAL.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\DAL.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\EntityFramework.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._101_Elegir_FormaDePago.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._102_Abonar_CtaCte.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._103_Abonar_Efectivo.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._104_EmisionFactura_CtaCte.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._105_EmisionFactura_Efectivo.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Abonar_CtaCte.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes_Cadete_LookUp.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_Cta_Cte.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20001_ConsultaClientes.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._Cliente_CtaCte_EmisionFactura.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9001_ConsultaCondicionIva.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0020_PreventaDelivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0010_VentaDelivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0030_Elegir_FormaDePago_Delivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0040_Abonar_CtaCte_Delivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0050_Abonar_Efectivo_Delivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0060_EmisionFactura_CtaCte_Delivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0070_EmisionFactura_Efectivo_Delivery.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30001_ConsultaEmpleado.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Informacion.Informacion.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90001_ConsultaListaPrecioProductos.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50001_ConsultaListaPrecio.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Login.RecuperarCuenta.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40001_ConsultaMarca.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Clientes.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Provedores.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50001_ConsultaProducto.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5004_ComprobantePago.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60001_ConsultaProveedores.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70001_ConsultaRubro.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80001_ConsultaSubRubro.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10003_Cliente_Mozo_Lookup.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10004_Mesa_LookUp.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10005_Reservar_Mesa.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10006_ConfirmarReserva_Mesa.resources
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+A:\Facultad\Laboratorio Computaciion  II\2016 (Regular)\Final Gastronomia (Aprobado) febrero 2018\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\CircularProgressBar.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\DAL.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Base.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Servicio.Core.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\WinFormAnimation.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\DAL.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\DAL.dll.config
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Base.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Presentacion.Base.dll.config
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Servicio.Core.pdb
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\Servicio.Core.dll.config
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._101_Elegir_FormaDePago.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._102_Abonar_CtaCte.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._103_Abonar_Efectivo.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._104_EmisionFactura_CtaCte.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.AbonarConsumicion._105_EmisionFactura_Efectivo.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Abonar_CtaCte.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Clientes_Cadete_LookUp.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes.Cliente_Cta_Cte.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20001_ConsultaClientes.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._20002_ABM_Clientes.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Clientes._Cliente_CtaCte_EmisionFactura.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9001_ConsultaCondicionIva.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Condicion_Iva._9002_ABM_CondicionIva.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0020_PreventaDelivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0010_VentaDelivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0030_Elegir_FormaDePago_Delivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0040_Abonar_CtaCte_Delivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0050_Abonar_Efectivo_Delivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0060_EmisionFactura_CtaCte_Delivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Delivery._0070_EmisionFactura_Efectivo_Delivery.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30001_ConsultaEmpleado.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._30002_ABM_Empleado.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Informacion.Informacion.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90001_ConsultaListaPrecioProductos.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Lista_Precio_Producto._90002_ABM_ListaPrecioProducto.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50001_ConsultaListaPrecio.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._50002_ABM_ListaPrecios.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Login.RecuperarCuenta.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Login.WfLogin.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40001_ConsultaMarca.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._40002_ABM_Marca.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Clientes.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Movimientos.Movimientos_Provedores.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50001_ConsultaProducto.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._50002_ABM_Producto.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5003_PedidoProducto.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Producto._5004_ComprobantePago.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60001_ConsultaProveedores.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedores._60002_ABM_Provedores.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70001_ConsultaRubro.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._70002_ABM_Rubro.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80001_ConsultaSubRubro.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.SubRubro._80002_ABM_SubRubro.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10003_Cliente_Mozo_Lookup.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10004_Mesa_LookUp.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10005_Reservar_Mesa.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.Venta_en_Salon._10006_ConfirmarReserva_Mesa.resources
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Marcos\Desktop\GastronmiaRepositorio\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
