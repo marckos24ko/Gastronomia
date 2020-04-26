@@ -1,4 +1,9 @@
 # Gastronomia
-Gastronomia es una App de escritorio, administradora de un restaurante, completa en todo sentido capaz de realizar múltiples acciones, con una interfaz amigable a favor del usuario.
 
-Para probar el instalador, descargue el Instalador.rar, extraer el archivo y seguir las instrucciones para instalacion. 
+Requisitos: DEBE TENER INSTALADO SQL SERVER 2014 O SUPERIOR EN SU COMPUTADORA.
+
+Para probar el instalador, descargue el Instalador.rar, extraer el archivo y seguir las instrucciones para instalacion.
+
+La aplicacion fue desarrolada en codigo C#, Programacion Orientada a Objetos, programacion en capas, con base de datos local.
+
+
